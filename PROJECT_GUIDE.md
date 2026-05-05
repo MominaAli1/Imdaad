@@ -6,7 +6,7 @@ A working notebook to keep me oriented across this codebase. Pulls from `README.
 
 ## 1. What this project is
 
-**Imdaad** (folder name `guardian`, package name `vaasta`) is an AI-powered emergency response system for Karachi. Built for AI Mustaqbil 2.0.
+**Imdaad** (folder name `guardian`, package name `vaasta`) is an AI-powered emergency response system for Karachi. Built by Momina Ali 30579 & Javeria Khan 31662.
 
 Three "personas" share one Next.js app:
 

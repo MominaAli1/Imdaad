@@ -391,7 +391,7 @@ function MissionFooter() {
         <FooterCell icon={<Clock className="h-3 w-3" />}    label="STACK"    value="LANGGRAPH · GROQ · WEBRTC" />
       </div>
       <div className="rule-paper mt-5 flex items-baseline justify-between pt-3">
-        <MonoTag size="xs" className="opacity-50">© 2026 · Built in 24h · AI Mustaqbil 2.0</MonoTag>
+        <MonoTag size="xs" className="opacity-50">© 2026 · Built by: Momina Ali 30579 & Javeria Khan 31662</MonoTag>
         <MonoTag size="xs" className="opacity-50">v 2.0 · مرحبا کراچی</MonoTag>
       </div>
     </footer>
